@@ -23,4 +23,5 @@
 
 <!--## 🎮 Games-->
 
-<img align="right" alt="Genshin Impact" src="https://genshin-card.getloli.com/42/11246523.png"/>
+<a href="https://genshin-card.getloli.com/"><img align="right" alt="Willianrod's wakatime stats" src="https://genshin-card.getloli.com/detail/9-13,15-42,44-59/11246523.png"/></a>
+
