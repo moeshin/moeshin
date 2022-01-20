@@ -20,3 +20,7 @@
 [![iOS 14](https://img.shields.io/badge/iOS%2014-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
 
 [![Moe Counter!](https://count.getloli.com/get/@moeshin?theme=rule34)](https://count.getloli.com/)
+
+<!--## 🎮 Games-->
+
+<img align="right" alt="Genshin Impact" src="https://genshin-card.getloli.com/42/11246523.png"/>
