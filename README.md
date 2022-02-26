@@ -3,7 +3,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeshin&layout=compact&langs_count=10&theme=dracula&card_width=445"/></a><br/>
 
-<a href="https://wakatime.com/@moeshin"><img align="right" alt="Willianrod's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=moeshin&layout=compact&theme=dracula"/></a>
+<a href="https://wakatime.com/@moeshin"><img align="right" alt="MoeShin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=moeshin&layout=compact&theme=dracula"/></a>
 
 ## 👋 Hello World! ฅ'ω'ฅ
 
@@ -23,5 +23,5 @@
 
 <!--## 🎮 Games-->
 
-<a href="https://genshin-card.getloli.com/"><img align="right" alt="Willianrod's wakatime stats" src="https://genshin-card.getloli.com/detail/9-13,15-42,44-59/11246523.png"/></a>
+<a href="https://genshin-card.getloli.com/"><img align="right" alt="Genshin" src="https://genshin-card.getloli.com/detail/9-13,15-42,44-59/11246523.png"/></a>
 
