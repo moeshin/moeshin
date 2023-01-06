@@ -23,5 +23,5 @@
 
 <!--## 🎮 Games-->
 
-<a href="https://genshin-card.getloli.com/"><img align="right" alt="Genshin" src="https://genshin-card.getloli.com/detail/9-13,15-42,44-59/11246523.png"/></a>
+<a href="https://genshin-card.getloli.com/"><img align="right" alt="Genshin" src="https://genshin-card.getloli.com/9-13,15-42,44-59/11246523.png"/></a>
 
