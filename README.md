@@ -18,7 +18,7 @@
 [![macOS 10.16](https://img.shields.io/badge/macOS%2010%2e16-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![macOS 10.15](https://img.shields.io/badge/macOS%2010%2e15-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/catalina/)<br>
 [![iOS 14](https://img.shields.io/badge/iOS%2014-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
-[![Android 12](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-12/)
+[![Android 13](https://img.shields.io/badge/Android%2012-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 
 [![Moe Counter!](https://count.getloli.com/get/@moeshin?theme=rule34)](https://count.getloli.com/)
 
