@@ -17,7 +17,7 @@
 [![Debian 11](https://img.shields.io/badge/Debian%2011-d70a53?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/releases/11/)<br>
 [![macOS 10.16](https://img.shields.io/badge/macOS%2010%2e16-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![macOS 10.15](https://img.shields.io/badge/macOS%2010%2e15-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/catalina/)<br>
-[![iOS 14](https://img.shields.io/badge/iOS%2014-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-14/)
+[![iOS 15](https://img.shields.io/badge/iOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/ios/ios-15/)
 [![Android 13](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)](https://www.android.com/android-13/)
 
 [![Moe Counter!](https://count.getloli.com/get/@moeshin?theme=rule34)](https://count.getloli.com/)
