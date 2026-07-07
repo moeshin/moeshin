@@ -1,9 +1,9 @@
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=moeshin&show_icons=true&count_private=true&theme=dracula"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Github stats" src="https://github-stats-extended.vercel.app/api?username=moeshin&show_icons=true&count_private=true&theme=dracula"/></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeshin&layout=compact&langs_count=10&theme=dracula&card_width=445"/></a><br/>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Top Langs" src="https://github-stats-extended.vercel.app/api/top-langs/?username=moeshin&layout=compact&langs_count=10&theme=dracula&card_width=445"/></a><br/>
 
-<a href="https://wakatime.com/@moeshin"><img align="right" alt="MoeShin's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=moeshin&layout=compact&theme=dracula"/></a>
+<a href="https://wakatime.com/@moeshin"><img align="right" alt="MoeShin's wakatime stats" src="https://github-stats-extended.vercel.app/api/wakatime?username=moeshin&layout=compact&theme=dracula"/></a>
 
 ## 👋 Hello World! ฅ'ω'ฅ
 
